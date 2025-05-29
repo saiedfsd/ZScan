@@ -61,21 +61,12 @@ lib/
 
 ## 📸 Screenshots
 
-### 🔹 Home Screen
-
-![Home Screen](screenshots/home_screen.png)
-
-### 🔹 Barcode Scanner
-
-![Scanner Screen](screenshots/scanner_screen.png)
-
-### 🔹 Scan History
-
-![Scan History](screenshots/history_screen.png)
-
-> Place these images in the `screenshots/` directory of your project repository.
+![Screenshot_20250529_233413](https://github.com/user-attachments/assets/1a20d7fb-3aa6-43ef-a958-98611c94b657)
+![Screenshot_20250529_233331](https://github.com/user-attachments/assets/b4020c42-f617-4737-a3bc-6f3e2b85205c)
+![Screenshot_20250529_233445](https://github.com/user-attachments/assets/2df33d79-e5b9-4ded-8adc-876d7ea13fae)
 
 ---
+
 
 ## 📦 Packages Used
 

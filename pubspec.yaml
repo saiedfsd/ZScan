@@ -16,6 +16,8 @@ dependencies:
   flutter_zxing: ^2.1.0
   share_plus: ^7.2.1
   path_provider: ^2.1.2
+  sqflite: ^2.4.2
+  path: ^1.8.3
   
 dev_dependencies:
   flutter_test:

@@ -27,7 +27,7 @@ val keystoreProperties = Properties().apply {
 android {
     namespace = "ir.flutteropensource.zscan"
     compileSdk = 35
-    ndkVersion = "25.2.9519653"
+    ndkVersion = "26.3.11579264"
 
     defaultConfig {
         applicationId = "ir.flutteropensource.zscan"

@@ -16,11 +16,11 @@
 
 ---
 
-## 🤖 APK Files:
+## 🤖 Download ZScan APK Files:
 
-* 📦 **![ZScan V1.0.0.0 arm64-v8a release](https://drive.google.com/file/d/1_W72_hO2q5AHdHES3GJY1kl2_8Gn0ywf/view?usp=drive_link)**
-* 📦 **![ZScan V1.0.0.0 armeabi-v7a release](https://drive.google.com/file/d/1ma0bOyBtVAAIfhA1vE71o5sIOSvCd3fM/view?usp=drive_link)**
-* 📦 **![ZScan V1.0.0.0 x86_64 release](https://drive.google.com/file/d/10y1kfrhL7H7EzrL438KnhJ4U3ewB1Dgg/view?usp=drive_link)**
+* 📦 **[ZScan V1.0.0.0 arm64-v8a release](https://drive.google.com/uc?export=download&id=1_W72_hO2q5AHdHES3GJY1kl2_8Gn0ywf)**
+* 📦 **[ZScan V1.0.0.0 armeabi-v7a release](https://drive.google.com/uc?export=download&id=1ma0bOyBtVAAIfhA1vE71o5sIOSvCd3fM)**
+* 📦 **[ZScan V1.0.0.0 x86_64 release](https://drive.google.com/uc?export=download&id=10y1kfrhL7H7EzrL438KnhJ4U3ewB1Dgg)**
 
 ---
 
